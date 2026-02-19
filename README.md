@@ -26,6 +26,14 @@ Currently seeking Full-Stack Developer roles.
 
 ---
 
+## 📊 GitHub Stats
+
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuj-876&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-876&layout=compact&theme=dark)
+
+---
+
 ## 🔥 Featured Projects
 
 ### 🛒 E-Commerce Web App (Full-Stack)
