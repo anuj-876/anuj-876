@@ -1,4 +1,4 @@
-# Hi, I'm Anuj 👋
+# Hi, I'm Anujkuamr 👋
 
 🎓 B.Tech CSE Student (2026)  
 💻 Full-Stack Web Developer (MERN Stack)  
