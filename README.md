@@ -8,9 +8,10 @@
 
 ## 🚀 About Me
 
-I build end-to-end web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+I build production-ready full-stack applications using the MERN stack. 
 
-I enjoy developing scalable backend APIs and designing responsive, user-friendly frontend interfaces. I have hands-on experience in authentication systems, REST API integration, and deploying full-stack applications.
+My focus is on designing scalable backend APIs and creating responsive, user-friendly frontend interfaces. 
+I enjoy solving real-world problems through clean architecture, authentication systems, and efficient database design.
 
 Currently seeking Full-Stack Developer roles.
 
