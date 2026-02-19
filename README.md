@@ -43,5 +43,5 @@ Currently seeking Full-Stack Developer roles.
 ---
 
 ## 📫 Connect With Me
-LinkedIn: [Your Link]  
-Email: anuj******@gmail.com
+LinkedIn: https://www.linkedin.com/in/anujkumarsutar/
+Email: anujsutar876@gmail.com
